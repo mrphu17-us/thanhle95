@@ -13,7 +13,23 @@ Master's student at Computer Science at Maharishi International University, IA, 
   </div>
 </div>
 
-
+-----------------------------------
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-MacOs-informational?style=flat-square&logo=macos&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat-square&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Hive-informational?style=flat-square&logo=hive&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-HBase-informational?style=flat-square&logo=bigtable&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Spark-informational?style=flat-square&logo=apache-spark&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Hadoop-informational?style=flat-square&logo=hadoop&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat-square&logo=digitalocean&logoColor=white&color=2bbc8a)
 -----------------------------------
 # Projects
 
