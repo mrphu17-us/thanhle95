@@ -7,7 +7,9 @@ Master's student at Computer Science at Maharishi International University, IA, 
   
 <div align="center">
 <a href="https://www.linkedin.com/in/thanh-le-uit/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width=200px height=50px /></a>
-<a href="mailto:ltle@miu.edu" target="_blank"><img alt="Outlook" src="https://img.shields.io/badge/Outlook-D14836?&style=for-the-badge&logo=outlook&logoColor=white" width=200px height=50px  /></a> 
+<a href="mailto:ltle@miu.edu" target="_blank"><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" width=200px height=50px  /></a> 
+<a href="https://t.me/lthanhle" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
+" width=200px height=50px  /></a> 
   </div>
 </div>
 
