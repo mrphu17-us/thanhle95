@@ -2,7 +2,8 @@
 Master's student at Computer Science at Maharishi International University, IA, USA. Passionate in Data Processing,  
 
 <div align="center">
-<p><img align="center" src=https://github-readme-stats.vercel.app/api?username=thanhle95&theme=tokyonight&show_icons=true&custom_title=Thanhle95%20GitHub%20Stats&include_all_commits=true&hide=issues,contribs&count_private=true" alt="thanhle95" />
+<p><img src=https://github-readme-stats.vercel.app/api?username=thanhle95&theme=tokyonight&show_icons=true&custom_title=Thanhle95%20GitHub%20Stats&line_height=33.9&include_all_commits=true&count_private=true" alt="thanhle95" />
+  <img  src=https://github-readme-stats.vercel.app/api/top-langs/?username=thanhle95&theme=tokyonight&show_icons=true&include_all_commits=true&hide=issues,contribs&count_private=true" alt="thanhle95" />
 </p>  
   
 <div align="center">
