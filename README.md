@@ -14,7 +14,7 @@ Master's student at Computer Science at Maharishi International University, IA, 
 </div>
 
 -----------------------------------
-## 🔧 Technologies & Tools
+## Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-MacOs-informational?style=flat-square&logo=macos&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white&color=2bbc8a)
@@ -31,8 +31,8 @@ Master's student at Computer Science at Maharishi International University, IA, 
 ![](https://img.shields.io/badge/Tools-Hadoop-informational?style=flat-square&logo=hadoop&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat-square&logo=digitalocean&logoColor=white&color=2bbc8a)
 -----------------------------------
-# Projects
-
+## Projects
+ Coming soon
 
 -----------------------------------
 <div align="center">
